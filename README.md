@@ -12,11 +12,10 @@ The goal of this project is to strengthen Azure engineering skills by building r
 
 Through this repository I will build hands-on experience with:
 
-- Microsoft Azure
 - Azure Resource Groups
-- Azure Virtual Networks
+- Azure Virtual Networks (Vnets)
 - Subnets
-- Network Security Groups
+- Network Security Groups (NSGs)
 - Azure Virtual Machines
 - Linux on Azure
 - Azure Storage
@@ -36,7 +35,7 @@ Through this repository I will build hands-on experience with:
 
 | # | Lab | Status |
 |---|---|---|
-| 01 | Azure Fundamentals & Resource Groups | 🔄 In Progress |
+| 01 | Azure Fundamentals & Resource Groups |  ✅ Completed |
 | 02 | Azure Virtual Networking | ⏳ Planned |
 | 03 | Azure Linux Virtual Machine | ⏳ Planned |
 | 04 | Azure Storage | ⏳ Planned |
@@ -44,6 +43,29 @@ Through this repository I will build hands-on experience with:
 | 06 | Azure Monitor & Log Analytics | ⏳ Planned |
 | 07 | Azure CLI & Automation | ⏳ Planned |
 | 08 | Azure Kubernetes Service (AKS) | ⏳ Planned |
+
+---
+
+## 📍 Current Progress
+
+### ✅ Lab 01 — Azure Fundamentals & Resource Groups
+
+In the first lab I focused on explaining how Azure organizes resources before moving into more complex infrastructure.
+
+Topics covered:
+
+- Azure Tenant
+- Azure Subscription
+- Resource Groups
+- Azure resource hierarchy
+- Resource lifecycle
+- Azure Portal
+- Azure CLI
+- Basic Azure naming conventions
+- Resource validation
+- Resource cleanup
+
+📖 [View Lab 01 Documentation](./01-azure-fundamentals/)
 
 ---
 
