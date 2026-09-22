@@ -36,7 +36,7 @@ Through this repository I will build hands-on experience with:
 | # | Lab | Status |
 |---|---|---|
 | 01 | Azure Fundamentals & Resource Groups |  ✅ Completed |
-| 02 | Azure Virtual Networking | ⏳ Planned |
+| 02 | Azure Virtual Networking | ✅ Completed |
 | 03 | Azure Linux Virtual Machine | ⏳ Planned |
 | 04 | Azure Storage | ⏳ Planned |
 | 05 | Microsoft Entra ID & RBAC | ⏳ Planned |
@@ -49,23 +49,10 @@ Through this repository I will build hands-on experience with:
 ## 📍 Current Progress
 
 ### ✅ Lab 01 — Azure Fundamentals & Resource Groups
-
-In the first lab I focused on explaining how Azure organizes resources before moving into more complex infrastructure.
-
-Topics covered:
-
-- Azure Tenant
-- Azure Subscription
-- Resource Groups
-- Azure resource hierarchy
-- Resource lifecycle
-- Azure Portal
-- Azure CLI
-- Basic Azure naming conventions
-- Resource validation
-- Resource cleanup
+### ✅ Lab 02 — Azure Virtual Networking
 
 📖 [View Lab 01 Documentation](./01-azure-fundamentals/)
+📖 [View Lab 02 Documentation](./02-Azure-Virtual-Networking/)
 
 ---
 
