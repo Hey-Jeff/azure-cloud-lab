@@ -52,7 +52,7 @@ Through this repository I will build hands-on experience with:
 ### ✅ Lab 02 — Azure Virtual Networking
 
 📖 [View Lab 01 Documentation](./01-azure-fundamentals/)
-📖 [View Lab 02 Documentation](./02-Azure-Virtual-Networking/)
+📖 [View Lab 02 Documentation](https://github.com/Hey-Jeff/azure-cloud-lab/tree/main/02%20-%20Azure%20Virtual%20Networking)
 
 ---
 
